@@ -8,6 +8,7 @@ Before diving into the code examples, make sure you have NumPy installed. You ca
 
 ```bash
 pip install numpy
+```
 
 ## Notice🔔
 One can easily understand these codes with the help of this [Youtube Playlist](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfgBKkIFBkMNGG7qyRfo00W).
